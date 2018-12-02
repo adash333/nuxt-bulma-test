@@ -28,6 +28,9 @@ import Logo from '~/components/Logo.vue'
 export default {
   components: {
     Logo
+  },
+  fetch ({store}) {
+    store.commit('resetMenu')
   }
 }
 </script>
