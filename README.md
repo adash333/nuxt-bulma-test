@@ -1,4 +1,4 @@
-# Nuxt-Bulma-Hamburger2
+# Nuxt-Bulma-test
 
 > My kryptonian Nuxt.js project
 
