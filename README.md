@@ -1,6 +1,8 @@
-# Nuxt-Bulma-test
+# nuxt-bulma-test
 
 > My kryptonian Nuxt.js project
+
+https://hungry-ritchie-e671b5.netlify.com
 
 ## Build Setup
 
