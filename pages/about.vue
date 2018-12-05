@@ -9,6 +9,24 @@
       </h2>
     </div>
   </section>
+  
+  <div class="section">
+    <div class="columns">
+      <div class="column">
+        <p class="bd-notification is-primary">First column</p>
+      </div>
+      <div class="column">
+        <p class="bd-notification is-primary">Second column</p>
+      </div>
+      <div class="column">
+        <p class="bd-notification is-primary">Third column</p>
+      </div>
+      <div class="column">
+        <p class="bd-notification is-primary">Fourth column</p>
+      </div>
+    </div>
+  </div>
+    
 </template>
 
 <script>
